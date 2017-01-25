@@ -1,0 +1,2 @@
+# vuex-testing
+vues test
